@@ -1,0 +1,33 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input,
+textarea {
+  width: 500px;
+  margin: 10px;
+  height: 50px;
+  border: 2px solid #f99427;
+  background-color: white;
+}
+input::placeholder,
+textarea::placeholder {
+  color: #298765;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+button {
+  width: 400px;
+  height: 45px;
+  background-color: #f99427;
+  color: #298765;
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+
+button:hover {
+  background-color: #298765;
+  color: #f99427;
+}

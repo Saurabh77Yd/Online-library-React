@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #298765;
+  padding: 15px;
+}
+.nav-iteam {
+  text-decoration: none;
+  background-color: #298765;
+  color: #f99427;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

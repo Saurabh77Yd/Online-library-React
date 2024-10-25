@@ -1,0 +1,14 @@
+.bookDetails-2 {
+  margin-left: 500px;
+}
+.bookDetails-2 p {
+  margin: 20px;
+}
+
+.back {
+  text-decoration: none;
+  color: #298729;
+  padding: 10px;
+  background-color: #f94;
+  font-weight: bold;
+}
