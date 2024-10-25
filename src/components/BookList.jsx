@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
-import "./BooKList.css";
+import "./BookList.css";
 
 function BookList(props) {
   const books = useSelector((state) => state.books.list);
